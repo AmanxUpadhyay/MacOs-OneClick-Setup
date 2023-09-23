@@ -28,5 +28,3 @@ If you would like to contribute to this project, feel free to submit a pull requ
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-You can customize this template to fit your project's specific needs. Make sure to include all the necessary information that users might need to know about your project.
